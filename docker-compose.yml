@@ -1,7 +1,6 @@
-version: '3.8'
-
+# Remove version as it's now obsolete
 services:
-  web:
+  trae-app:    # Changed from 'web' to match the image name from GitHub Actions
     build:
       context: .
       dockerfile: Dockerfile
