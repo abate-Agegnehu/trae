@@ -1,6 +1,6 @@
 'use client'
 
-import { ButtonHTMLAttributes, forwardRef } from 'react'
+import { forwardRef } from 'react'
 import { motion, HTMLMotionProps } from 'framer-motion'
 
 interface ButtonProps extends HTMLMotionProps<"button"> {

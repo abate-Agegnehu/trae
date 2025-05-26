@@ -1,4 +1,5 @@
-import { motion } from 'framer-motion';
+// Remove this line
+// import { motion } from 'framer-motion';
 import { FaMapMarkerAlt, FaEnvelope, FaPhone, FaTwitter, FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 const Contact = () => {
